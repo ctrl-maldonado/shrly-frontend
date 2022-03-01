@@ -1,2 +1,2 @@
-# Sharely Frontend
+# sharely frontend
 sharely frontend code repository
